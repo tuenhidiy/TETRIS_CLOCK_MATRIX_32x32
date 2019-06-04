@@ -4,3 +4,5 @@ Tetris Clock - Bicolor Matrix 32x32 is controlled by B.A.M method with Arduino M
 This Tetris Clock is referenced from: https://github.com/toblum/esp_p10_tetris_clock
 
 Please see at Youtube link: https://www.youtube.com/watch?v=mk3FEIfGs1c
+
+My instructables: https://www.instructables.com/id/HAVE-FUN-WITH-BICOLOR-MATRIX-32x32/
